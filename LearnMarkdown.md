@@ -345,8 +345,8 @@ Markdown 应用程序在处理 URL 中间的空格时可能存在不同的处理
 
 渲染效果：<br>
 
-![初音未来](./images/hatsune1.png)
-![初音未来2](./images/hatsune2.png)
+![初音未来](./hatsune1.png)
+![初音未来2](./hatsune2.png)
 
 注意：./表示相对路径，从当前目录开始寻找文件。
 
