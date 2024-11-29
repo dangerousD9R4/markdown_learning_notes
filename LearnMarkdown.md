@@ -340,7 +340,7 @@ Markdown 应用程序在处理 URL 中间的空格时可能存在不同的处理
 下面是一个示例。<br>
 
 ```
-![初音未来](./images/hatsune1.png)
+![初音未来](./hatsune1.png)
 ```
 
 渲染效果：<br>
